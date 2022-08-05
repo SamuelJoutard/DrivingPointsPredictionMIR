@@ -1,0 +1,4 @@
+torch
+nibabel
+scikit-image
+tqdm
