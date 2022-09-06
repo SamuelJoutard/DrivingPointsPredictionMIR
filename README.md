@@ -1,6 +1,6 @@
 # Driving Points prediction
 
-Code used for the experiments presented in [this paper](https://arxiv.org/abs/2208.03232). 
+Code used for the experiments presented in [Driving Points Prediction For Abdominal Probabilistic Registration](https://arxiv.org/abs/2208.03232). 
 
 ##  Overview
 
