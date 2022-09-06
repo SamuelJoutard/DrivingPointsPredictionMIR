@@ -1,6 +1,6 @@
 # Driving Points prediction
 
-Code used for the experiments presented in (insert link). 
+Code used for the experiments presented in [this paper](https://arxiv.org/abs/2208.03232). 
 
 ##  Overview
 
